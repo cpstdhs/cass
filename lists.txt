@@ -1,0 +1,12 @@
+name: JUNGSUNGJO
+age: 22
+sex: M
+phone: 010-7906-7715
+e-mail: cpstd_hs@naver.com
+assigment: 0
+name: 1
+age: 1
+sex: 1
+phone: 1
+e-mail: 1
+assignment: 0
